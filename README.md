@@ -65,11 +65,11 @@
 
 ---
 ## 🗂️ Project Structure
-ChatSense/
-├── app.py # Streamlit dashboard
-├── preprocessor.py # Data parsing and cleaning
-├── helper.py # Analytical and plotting functions
-├── stop_hinglish.txt # Custom Hinglish stopwords
-├── requirements.txt
-└── README.md
+- ChatSense/
+- ├── app.py # Streamlit dashboard
+- ├── preprocessor.py # Data parsing and cleaning
+- ├── helper.py # Analytical and plotting functions
+- ├── stop_hinglish.txt # Custom Hinglish stopwords
+- ├── requirements.txt
+- └── README.md
 
