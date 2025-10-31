@@ -73,3 +73,10 @@
 - ├── requirements.txt
 - └── README.md
 
+## 🎯 Key Features
+
+- Upload WhatsApp chat (.txt) for instant analysis.
+- Insights for individuals or overall group.
+- Timeline and activity-based plots.
+- Word cloud, most common words, and emoji frequency.
+- Minimal, modern Streamlit dashboard UI.
